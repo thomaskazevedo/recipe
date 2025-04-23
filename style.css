@@ -14,10 +14,27 @@ img {
   border-radius: 10px;
 }
 
+h1,
+h2 {
+  color: rgb(73, 38, 0);
+}
+
 .page {
   width: 790px;
   padding: 30px;
   margin: 50px auto;
-  background-color: aliceblue;
+  background-color: rgb(255, 244, 235);
   border-radius: 10px;
+}
+
+.about {
+  margin: 24px 0;
+}
+
+.ingredients {
+  margin: 24px 0;
+
+  & ul {
+    margin-left: 24px;
+  }
 }
