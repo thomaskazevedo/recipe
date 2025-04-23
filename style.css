@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font: 1.2rem "Poppins", sans-serif;
+  background-image: url("assets/bg-brownie.jpg");
+  background-size: cover;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.page {
+  width: 790px;
+  padding: 30px;
+  margin: 50px auto;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
