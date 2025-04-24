@@ -22,7 +22,7 @@ h2 {
 .page {
   width: 790px;
   padding: 30px;
-  margin: 50px auto;
+  margin: 70px auto;
   background-color: rgb(255, 244, 235);
   border-radius: 10px;
 }
@@ -37,4 +37,12 @@ h2 {
   & ul {
     margin-left: 24px;
   }
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: rgb(73, 38, 0);
+  padding: 24px 0;
+  margin-top: 100px;
 }
